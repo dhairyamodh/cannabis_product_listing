@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/cannabis_product_listing/static/js/main.1e3f10c2.chunk.js",
+    "main.js.map": "/cannabis_product_listing/static/js/main.1e3f10c2.chunk.js.map",
+    "runtime-main.js": "/cannabis_product_listing/static/js/runtime-main.2d65631c.js",
+    "runtime-main.js.map": "/cannabis_product_listing/static/js/runtime-main.2d65631c.js.map",
+    "static/css/2.7b741bc1.chunk.css": "/cannabis_product_listing/static/css/2.7b741bc1.chunk.css",
+    "static/js/2.bb2fa664.chunk.js": "/cannabis_product_listing/static/js/2.bb2fa664.chunk.js",
+    "static/js/2.bb2fa664.chunk.js.map": "/cannabis_product_listing/static/js/2.bb2fa664.chunk.js.map",
+    "index.html": "/cannabis_product_listing/index.html",
+    "static/css/2.7b741bc1.chunk.css.map": "/cannabis_product_listing/static/css/2.7b741bc1.chunk.css.map",
+    "static/js/2.bb2fa664.chunk.js.LICENSE.txt": "/cannabis_product_listing/static/js/2.bb2fa664.chunk.js.LICENSE.txt",
+    "static/media/bg.f475ed5f.jpg": "/cannabis_product_listing/static/media/bg.f475ed5f.jpg",
+    "static/media/index.css": "/cannabis_product_listing/static/media/roboto-latin-900italic.cb5ad999.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d65631c.js",
+    "static/css/2.7b741bc1.chunk.css",
+    "static/js/2.bb2fa664.chunk.js",
+    "static/js/main.1e3f10c2.chunk.js"
+  ]
+}
