@@ -1,7 +1,7 @@
 import React from "react";
-import { Route } from "react-router-dom";
-import { useSelector } from "react-redux";
+import { Redirect, Route } from "react-router-dom";
 import ProductDetails from "../pages/ProductDetails";
+import home from "../pages/home";
 
 const MasterRoutes = () => {
 
@@ -9,7 +9,17 @@ const MasterRoutes = () => {
         <div>
             <Route
                 exact
-                path="/:cateName"
+                path="/"
+                render={() => <Redirect to="/cannabis_product_listing" />}
+            />
+            <Route
+                exact
+                path="/cannabis_product_listing"
+                component={home}
+            />
+            <Route
+                exact
+                path="/cannabis_product_listing/:cateName"
                 component={ProductDetails}
             />
 
